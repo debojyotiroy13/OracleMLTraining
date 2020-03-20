@@ -1,8 +1,8 @@
 # OracleMLTraining (Basic of Machine Learning using Python)
 
 ## Trainer
-Name: Prashant Koparkar
-Email: prashantkoparkar@gmail.com
+* Name: Prashant Koparkar
+* Email: prashantkoparkar@gmail.com
 
 ## Objective:
 * To understand what is Machine Learning, why is popular now a days, what are different type
